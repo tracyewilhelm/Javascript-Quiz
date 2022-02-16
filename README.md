@@ -79,8 +79,10 @@ This homework is graded based on the following criteria:
 You are required to submit BOTH of the following for review:
 
 - The URL of the functional, deployed application.
+  https://tracyewilhelm.github.io/Javascript-Quiz/
 
 - The URL of the GitHub repository, with a unique name and a readme describing the project.
+  https://github.com/tracyewilhelm/Javascript-Quiz
 
 ---
 
